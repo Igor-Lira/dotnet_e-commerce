@@ -1,0 +1,23 @@
+C:\Users\igorl\Desktop\ALURA\_NET\Web e-commerce\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\igorl\Desktop\ALURA\_NET\Web e-commerce\bin\Debug\net5.0\appsettings.json
+C:\Users\igorl\Desktop\ALURA\_NET\Web e-commerce\bin\Debug\net5.0\Web e-commerce.exe
+C:\Users\igorl\Desktop\ALURA\_NET\Web e-commerce\bin\Debug\net5.0\Web e-commerce.deps.json
+C:\Users\igorl\Desktop\ALURA\_NET\Web e-commerce\bin\Debug\net5.0\Web e-commerce.runtimeconfig.json
+C:\Users\igorl\Desktop\ALURA\_NET\Web e-commerce\bin\Debug\net5.0\Web e-commerce.runtimeconfig.dev.json
+C:\Users\igorl\Desktop\ALURA\_NET\Web e-commerce\bin\Debug\net5.0\Web e-commerce.dll
+C:\Users\igorl\Desktop\ALURA\_NET\Web e-commerce\bin\Debug\net5.0\ref\Web e-commerce.dll
+C:\Users\igorl\Desktop\ALURA\_NET\Web e-commerce\bin\Debug\net5.0\Web e-commerce.pdb
+C:\Users\igorl\Desktop\ALURA\_NET\Web e-commerce\obj\Debug\net5.0\Web e-commerce.csproj.AssemblyReference.cache
+C:\Users\igorl\Desktop\ALURA\_NET\Web e-commerce\obj\Debug\net5.0\Web e-commerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorl\Desktop\ALURA\_NET\Web e-commerce\obj\Debug\net5.0\Web e-commerce.AssemblyInfoInputs.cache
+C:\Users\igorl\Desktop\ALURA\_NET\Web e-commerce\obj\Debug\net5.0\Web e-commerce.AssemblyInfo.cs
+C:\Users\igorl\Desktop\ALURA\_NET\Web e-commerce\obj\Debug\net5.0\Web e-commerce.csproj.CoreCompileInputs.cache
+C:\Users\igorl\Desktop\ALURA\_NET\Web e-commerce\obj\Debug\net5.0\Web e-commerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\igorl\Desktop\ALURA\_NET\Web e-commerce\obj\Debug\net5.0\staticwebassets\Web e-commerce.StaticWebAssets.Manifest.cache
+C:\Users\igorl\Desktop\ALURA\_NET\Web e-commerce\obj\Debug\net5.0\staticwebassets\Web e-commerce.StaticWebAssets.xml
+C:\Users\igorl\Desktop\ALURA\_NET\Web e-commerce\obj\Debug\net5.0\scopedcss\bundle\Web e-commerce.styles.css
+C:\Users\igorl\Desktop\ALURA\_NET\Web e-commerce\obj\Debug\net5.0\Web e-commerce.RazorTargetAssemblyInfo.cache
+C:\Users\igorl\Desktop\ALURA\_NET\Web e-commerce\obj\Debug\net5.0\Web e-commerce.dll
+C:\Users\igorl\Desktop\ALURA\_NET\Web e-commerce\obj\Debug\net5.0\ref\Web e-commerce.dll
+C:\Users\igorl\Desktop\ALURA\_NET\Web e-commerce\obj\Debug\net5.0\Web e-commerce.pdb
+C:\Users\igorl\Desktop\ALURA\_NET\Web e-commerce\obj\Debug\net5.0\Web e-commerce.genruntimeconfig.cache
