@@ -26,13 +26,22 @@ namespace Web_e_commerce
                 app.UseDeveloperExceptionPage();
             }
 
+            var livros = new List<Livro>();
+            livros.Add(new Livro("001", "Quem mecheu na minha Query", 12.99m));
+            livros.Add(new Livro("002", "Fique rico com C#", 19.99m));
+            livros.Add(new Livro("003", ".Net para baixinhos", 29.99m));
+
             app.UseRouting();
 
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapGet("/", async context =>
                 {
-                    await context.Response.WriteAsync("Hello World!");
+                    foreach (var livro in livros)
+                    {
+                        await context.Response.WriteAsync($"{livro.Codigo,-10} {livro.Nome,-40} {livro.Preco.ToString("C"),10}\r\n");
+                    }
+                   // await context.Response.WriteAsync("Hello World!");
                 });
             });
         }
